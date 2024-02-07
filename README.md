@@ -19,7 +19,7 @@ And for those who don't know, it is possible to create calculated measures in GA
 
 ![image](https://github.com/bro-gui/GA4_ImportItemData/assets/159245204/69f752c1-0f87-4f97-a979-4df128173791)
 
-<h2>So start to custom and pump your Item data </h2>
+<h2>So start to custom and pimp your Item data </h2>
 Datas you are about to import will be attached to the GA4 data. So when you go to a report Analytics will issue a request for the report data. What's interesting here is that this type of join is temporary.
 In this way, GA4 combines the imported data with its internal data to create a unified view when you generate a report. If you delete your imported data in GA4, you won't be able to create new reports or access the joined data created before.
 You can upload data via the same data source multiple times as long as you are just adding values to existing fields. If you want to add fields to a data source, you need to delete the existing data source and then create a new one - once you save a data source, you can't change the mapping of Analytics fields to the fields in your CSV.
