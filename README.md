@@ -60,4 +60,21 @@ If you want to delete the data source:
 
 Then you will come back to the original data collected from your TMS and datalayer.
 ![image](https://cdn-images-1.medium.com/max/1200/1*suhkrtOjLNriMuSwoDsGig.png)
+
+<h3>And the answer is…</h3>
+Let's say we want to know whether using a packshot on certain products has a positive effect or not on the act of adding to the basket. Because the funnel is not the issue here. To put it simply, we're looking at very similar products in terms of price trends. We could do the same thing if we had new photos to see if the model had an effect on conversion rates.
+
+On week 3 I have all picture with model, and on week 4 I have some pics with packshoot. so I will pimp my catalog with packshoot as items ID with the changed pics and the items ID to compare will be NO.
+
+So we could compare the add to cart journey from week 3 to week 4 if we focus on packshoot or model. Here I used Datama a smart data analytics. Easy to plug your GA4 datas to start the analyse. 
+Step1 items seen in a list page. Then step 2 the customer clicks on the product and sees it. And final step 3 the customer puts it in their basket.
+
+![image](https://github.com/bro-gui/GA4_catalogue/assets/159245204/863fe80b-f381-43d3-b24e-dd7320b89dd8)
+
+![image](https://github.com/bro-gui/GA4_catalogue/assets/159245204/ab8a3ec0-266a-4c77-9310-984fdac1ed98)
+
+Thanks to datama, instead of concluding that the packshoot does not generate an increase in add to cart. if we look at the stages and the sequence we can conclude that in a product sheet the packshoot in the 1st view has a positive impact on add to cart.
+
+![image](https://github.com/bro-gui/GA4_catalogue/assets/159245204/7ea8c7e3-a563-4298-934c-f12d9a38af94)
+
 I hope that's been clear and that you'll now find lots of ways to use these tips. If not I'm sure I could find some for you ≽^•⩊•^≼
